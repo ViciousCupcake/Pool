@@ -11,7 +11,7 @@ To run the file, install Python, vPython, and run in vIDLE (which should've been
 * Press 'space' to release the cue and fire the ball
 
 ## Screenshots
-![Example 1](/Pool/Screenshots/1.PNG)
-![Example 2](/Pool/Screenshots/2.PNG)
-![Example 3](/Pool/Screenshots/3.PNG)
-![Example 4](/Pool/Screenshots/4.PNG)
+![Example 1](/Screenshots/1.PNG)
+![Example 2](/Screenshots/2.PNG)
+![Example 3](/Screenshots/3.PNG)
+![Example 4](/Screenshots/4.PNG)
